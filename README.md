@@ -1,2 +1,2 @@
-# Learning-Js
-A code repo for javascript
+# Learning-Web-Dev
+A code repo for web development
